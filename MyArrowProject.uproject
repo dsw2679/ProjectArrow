@@ -49,6 +49,10 @@
 		{
 			"Name": "Feature_Monster",
 			"Enabled": true
+		},
+		{
+			"Name": "Feature_Gate",
+			"Enabled": true
 		}
 	]
 }
