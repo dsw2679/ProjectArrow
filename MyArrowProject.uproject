@@ -47,11 +47,11 @@
 			"Enabled": true
 		},
 		{
-			"Name": "Feature_Monster",
+			"Name": "Feature_Gate",
 			"Enabled": true
 		},
 		{
-			"Name": "Feature_Gate",
+			"Name": "Feature_Monster",
 			"Enabled": true
 		}
 	]
